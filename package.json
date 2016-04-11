@@ -1,17 +1,17 @@
 {
-  "name": "masonry",
-  "version": "0.2.0",
+  "name": "simukka-ghost-theme",
+  "version": "0.2.1",
   "description": "Theme for ghost",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chris-brown/Masonry-Ghost-Theme.git"
+    "url": "git@github.com:sisuware/simukka-ghost-theme.git"
   },
   "author": "Zirafon.org",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chris-brown/Masonry-Ghost-Theme/issues"
+    "url": "https://github.com/sisuware/simukka-ghost-theme/issues"
   },
-  "homepage": "https://github.com/chris-brown/Masonry-Ghost-Theme",
+  "homepage": "https://github.com/sisuware/simukka-ghost-theme/issues",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-concat-css": "^2.2.0",
